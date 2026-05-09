@@ -1,4 +1,4 @@
-﻿<div dir="rtl">
+﻿﻿<div dir="rtl">
 
 # 🚀 دليل فعاليات الجامعة الافتراضية السورية | SVU Events Guide
 
@@ -7,8 +7,7 @@
 ---
 
 ## 📁 هيكل المشروع | Project Structure
-
-\`\`\`
+```
 SVU-Events-Guide/
 ├── assets/
 │   ├── css/
@@ -41,7 +40,7 @@ SVU-Events-Guide/
 ├── about.php
 ├── contact.php
 └── README.md
-\`\`\`
+```
 
 ---
 
@@ -61,11 +60,11 @@ SVU-Events-Guide/
 
 - **Frontend:** HTML5, CSS3, JavaScript, jQuery
 - **Backend:** PHP 8, PDO, MySQL
-- **Tools:** phpMyAdmin, XAMPP, Git, GitHub
+- **Tools:** phpMyAdmin, Apache, XAMPP, Git, GitHub
 
 ### 🎨 الهوية البصرية والإلهام
 
-تم استلهام التصميم العام من الهوية البصرية لموقع وزارة الخارجية والمغتربين السورية، مع **تعديلات جوهرية** لتتناسب مع طبيعة المنصة الجامعية. لوحة الألوان مستمدة من الرموز الوطنية وتم انتقاؤها لتحقيق التوازن البصري والوضوح، مع الحفاظ على طابع رسمي وعصري في آنٍ واحد.
+يستند هذا المشروع في أساسه البصري إلى مشروع City Events Guide السابق، والذي كان تصميمه مستلهماً من الهوية البصرية لموقع وزارة الخارجية والمغتربين السورية. مع تعديلات جوهرية طالت لوحة الألوان وهيكل الواجهات لتتناسب مع طبيعة المنصة الجامعية. لوحة الألوان الحالية مستمدة من الرموز الوطنية وتم انتقاؤها لتحقيق التوازن البصري والوضوح، مع الحفاظ على طابع رسمي وعصري في آنٍ واحد.
 
 ### 🔤 الخط المستخدم
 
@@ -101,7 +100,7 @@ This project, however, has been **entirely restructured** into a **fully-fledged
 
 ### 🎨 Visual Identity & Inspiration
 
-The overall design was inspired by the visual identity of the Syrian Ministry of Foreign Affairs and Expatriates website, with **substantial modifications** tailored to the nature of the university platform. The color palette is derived from national symbols and was carefully selected to achieve visual balance and clarity, while maintaining a formal yet modern aesthetic.
+This project builds upon the visual foundation of the previous City Events Guide project, whose design was inspired by the visual identity of the Syrian Ministry of Foreign Affairs and Expatriates website. Substantial modifications have been made to the color palette and interface structure to suit the nature of this university platform. The current color palette is derived from national symbols and was carefully selected to achieve visual balance and clarity, while maintaining a formal yet modern aesthetic.
 
 ### 🔤 Font
 
