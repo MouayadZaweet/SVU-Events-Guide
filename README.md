@@ -4,7 +4,7 @@
 
 </div>
 
-[![Project Link](https://img.shields.io/badge/🔗-Project_Link-506382?style=plastic)](https://cazzacar.com/SVU%20Events%20Guide/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cazzacar.com/SVU%20Events%20Guide)
 
 ---
 
