@@ -4,6 +4,8 @@
 
 </div>
 
+[![Project Link](https://img.shields.io/badge/🔗-Project_Link-506382?style=plastic)](https://cazzacar.com/SVU%20Events%20Guide/)
+
 ---
 
 ## 📁 هيكل المشروع | Project Structure
